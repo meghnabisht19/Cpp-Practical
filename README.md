@@ -1,7 +1,7 @@
 # Cpp_Practical_Questions
-I. Write a program to compute the sum of the first o tenns of the followiog series:
+1. Write a program to compute the sum of the first o tenns of the followiog series:
    S = I - I / (2" 2) + I / (3" 3) - ... I / (o "n) where ^ is exponentiation.
-The number of terms n is to be taken from user through command line. If command line argument is not found then prompt the user to enter the value of n.
+   The number of terms n is to be taken from user through command line. If command line argument is not found then prompt the user to enter the value of n.
 
 2. Write a program to remove the duplicates from an array.
 
